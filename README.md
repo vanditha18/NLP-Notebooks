@@ -14,7 +14,7 @@ This repository contains notebooks covering fundamental to advanced NLP concepts
 
 ###  Text Representation
 
-[Open Notebook](https://colab.research.google.com/drive/1mv6KVnaGc2CKp9xgmvD6fhDmKGq92G6_)
+[Open Notebook](https://colab.research.google.com/drive/1YTkYrajO4SyUMEM8cK1WgWg7DKPD8Kg5)
 
 ---
 
