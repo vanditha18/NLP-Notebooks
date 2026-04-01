@@ -8,7 +8,7 @@ This repository contains notebooks covering fundamental to advanced NLP concepts
 
 ### Text Preprocessing
 
-[Open Notebook](https://colab.research.google.com/drive/1TkErPa4e98XSS3yFXdXsO8reR0gd7C9-#scrollTo=NRJ1e5b-Su72)
+[Open Notebook](https://colab.research.google.com/drive/1TkErPa4e98XSS3yFXdXsO8reR0gd7C9-#)
 
 ---
 
