@@ -30,6 +30,10 @@ This repository contains notebooks covering fundamental to advanced NLP concepts
 
 ---
 
+### Instruction based finetuning using LoRA adapters
+
+[Open Notebook](https://colab.research.google.com/drive/18eLH49rr7K8zA-xjxGsuew4ddmTfyTD2?authuser=2#scrollTo=Nqq1t2rypZcD)
+
 ## Overview
 
 These notebooks walk through:
@@ -38,6 +42,7 @@ These notebooks walk through:
 * Feature extraction techniques (BoW, TF-IDF, Word2Vec)
 * Traditional ML models for classification
 * Transformer-based models (BERT fine-tuning)
+* Finetuning LLM's using LoRA
 
 ---
 
